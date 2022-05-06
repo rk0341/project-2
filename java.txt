@@ -2,3 +2,4 @@ java
 .net
 go lan
 check sum
+log add
